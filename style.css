@@ -1,0 +1,42 @@
+body {
+    background-color: cadetblue;
+}
+.headerText {
+    color: brown;
+    font-size:20px ;
+
+}
+.catImage {
+    height:100px ;
+    width: 100px ;
+    border-radius: 50px ;
+    border-color:darkslategrey ;
+    border-width:5px ;
+    border-style:solid ;
+}
+.bodyText {
+    color:green ; 
+    font-size: 20px;
+
+
+}
+.secondHeaderText {
+    color:brown ;
+    font-size:20px ;
+}
+.toDoImage {
+height: 35px;
+width: 35px;
+display:inline-block;
+vertical-align: middle;
+}
+.toDoText {
+font-size: 20px;
+color:green;
+display:inline-block;
+vertical-align: middle;
+}
+.toDoDiv{
+    display:inline-block;
+    text-align: center;
+}
